@@ -1,7 +1,7 @@
 
 # Image Classification Project
 ## Introduction
-The goal of this project is to develop an image classification algorithm that can classify images into one of three categories: T-shirt/top, Sneaker, and Bag. By leveraging a subset of the Fashion MNIST dataset, we aim to build and evaluate a deep learning model using MobileNetV2 for this classification task.
+The goal of this project is to develop an image classification algorithm that can classify images into one of three categories: T-shirt/top, Sneaker, and Bag. By leveraging a subset of the Fashion MNIST dataset, we aim to build and evaluate a deep learning model using MobileNetV2 for this classification task. the analysis notebook can be found [here](https://github.com/Parsar22/Image-Classification/raw/main/Image_classification_analysis.ipynb)
 
 ## Data Source
 The dataset used for this analysis is the Fashion MNIST dataset, which is publicly available and can be accessed through TensorFlow Datasets. Fashion MNIST consists of 70,000 grayscale images in 10 categories, with 7,000 images per category. For this analysis, we used a subset of the dataset that includes three categories: T-shirt/top, Sneaker, and Bag. 
